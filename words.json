@@ -2,7 +2,7 @@
     {
       "id": "social-media",
       "name": "Сошиал медиа",
-      "initial": "С",
+      "initial": "S",
       "iconColor": "#E1306C",
       "words": [
         { "word": "TikTok", "hint": "Уулын оргил" },
