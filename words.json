@@ -1,7 +1,7 @@
 [
   {
     "id": "naadam",
-    "name": "Баяр Наадам",
+    "name": "Баяр",
     "initial": "Н",
     "iconColor": "#f4441e",
     "words": [
@@ -14,7 +14,7 @@
   },
   {
     "id": "food",
-    "name": "Идээ ундаа",
+    "name": "Идээ",
     "initial": "И",
     "iconColor": "#f5c133",
     "words": [
